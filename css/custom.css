@@ -10,3 +10,7 @@ a {
 .nav-pills > li > a {
   border-radius: 2px;
 }
+
+#pageContent {
+  font: Georgia;
+}
