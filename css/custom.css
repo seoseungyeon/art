@@ -16,7 +16,7 @@ a {
 
 @media all and (max-width: 979px) {
   .nav-pills > li > a {
-    font-size: 8vw;
+    font-size: 32px;
   }
 }
 
