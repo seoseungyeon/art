@@ -9,6 +9,8 @@ a {
 
 .nav-pills > li > a {
   border-radius: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #pageContent {
@@ -19,6 +21,7 @@ img {
   height: auto;
   max-width: 100%;
 }
+
 
 .navbar-header {
     float: none;
