@@ -16,7 +16,10 @@ a {
 
 @media (max-width: 1000px) {
   .nav-pills > li > a {
-    font-size: 64px;
+    font-size: 4vw;
+  }
+  .nav-pills > li {
+    font-size: 4vw;
   }
 }
 
