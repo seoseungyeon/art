@@ -9,8 +9,15 @@ a {
 
 .nav-pills > li > a {
   border-radius: 2px;
+  font-size: 16px;
   /*padding-top: 10px;
   padding-bottom: 10px;*/
+}
+
+@media only screen and (max-width: 979px) {
+  .nav-pills > li > a {
+    font-size: 4vw;
+  }
 }
 
 #pageContent {
