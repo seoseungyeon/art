@@ -14,7 +14,7 @@ a {
   padding-bottom: 10px;*/
 }
 
-@media only screen and (max-width: 979px) {
+@media all and (max-width: 979px) {
   .nav-pills > li > a {
     font-size: 8vw;
   }
