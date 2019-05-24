@@ -9,14 +9,10 @@ setpage = function(pageIndex) {
   var s = '';
   switch (pageIndex) {
 
-    case 2:
-      s += '<img src="image/venusBed/venusBed01.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed02.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed03.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed04.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed05.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed06.png"/><br><br>'
-      s += '<img src="image/venusBed/venusBed07.png"/><br><br>'
+    case 12:
+      s += '<video width="400" height="320" controls>
+  <source src="https://www.youtube.com/watch?v=68fxRwDWnB4">
+           </video>
 
       break;
 
@@ -63,9 +59,9 @@ setpage = function(pageIndex) {
        break;
       
     case 11:
-      s += ''<video width="400" height="320" controls>
-  <source src="https://www.youtube.com/watch?v=uiTWP6_ze4s&t=19s"
-          type="video/mp4"> </video>
+      s += '<video width="400" height="320" controls>
+  <source src="https://www.youtube.com/watch?v=uiTWP6_ze4s&t=19s">
+           </video>
      
       break;
     case 97:
