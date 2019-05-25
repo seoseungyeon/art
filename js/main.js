@@ -9,9 +9,6 @@ setpage = function(pageIndex) {
   var s = '';
   switch (pageIndex) {
 
-      break;
-
-
     case 4:
       s += '<img src="image/newNormal/newNormal01.png"/><br><br>'
       s += '<img src="image/newNormal/newNormal02.png"/><br><br>'
