@@ -40,9 +40,19 @@ setpage = function(pageIndex) {
       break;
     
     case 97:
-      s += '서승연 (Seo Seung Yeon)<br>';
-      s += '이화여자대학교 조소<br>';
-      s += 'Goldsmiths Unversity MFA fine art';
+      s += '서승연 Seo Seung Yeon<br><br>';
+      s += '이화여자대학교 조소 Ewha Unuversuty BA Sculpture<br>';
+      s += 'Goldsmiths Unversity MFA fine art<br><br><br>';
+      
+      s += '2016 Centennial of Modern Girls Season 1<br>'
+      s += '2017 A timid Rebellion<br>'
+      s += '2018 Centennial of Modern Girls Season 2<br>'
+      
+      break;
+      
+      case 98:
+      s += 'seosy019@gmail.com<br>';
+     
       break;
   }
 
